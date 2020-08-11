@@ -1,0 +1,2 @@
+include ':app', ':uploadApkPlugin'
+rootProject.name='UploadApkPlugin'
